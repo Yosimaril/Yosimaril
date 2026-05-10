@@ -1,11 +1,11 @@
 # About Me:
 <p>
-    Hello, I'm someone who believes that learning is a lifelong process. 
-    My curiosity drives me to explore how technology, especially AI, that can improve the way we think, work, and solve problems. 
-    I'm continuously developing myself through hands-on projects, self-study, and consistent practice. 
-    Whether it's learning a new concept, experimenting, or improving my workflow, I strive to grow a little every day.
+    Hello, I'm someone who believes that learning is a lifelong process.
+    My curiosity drives me to explore technology and understand how things work.
+    I continuously develop myself through projects, self-study, and consistent practice.
+    Whether learning a new concept, experimenting, or improving my skills, I strive to grow a little every day.
 </p>
-I may not know everything yet, but I'm committed to learning, adapting, and becoming better.
+I may not know everything, but I'm always willing to learn and become better.
 <br><br>
 <table>
     <thead>
@@ -22,7 +22,7 @@ I may not know everything yet, but I'm committed to learning, adapting, and beco
                 <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
                 <!-- <img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue" /> -->
                 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-                <img src="https://img.shields.io/badge/opencv-%57c93c.svg?style=for-the-badge&logo=opencv&logoColor=white" />
+                <!-- <img src="https://img.shields.io/badge/opencv-%57c93c.svg?style=for-the-badge&logo=opencv&logoColor=white" /> -->
                 <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
                 <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
                 <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" />
@@ -121,15 +121,15 @@ I may not know everything yet, but I'm committed to learning, adapting, and beco
                 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
             </td>
         </tr>
-        <!-- <tr>
+        <tr>
             <td align="center">Testing / Debugging / Quality</td>
             <td>
                 <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />
-                <img src="https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-                <img src="https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white" />
-                <img src="https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B" />
+                <!-- <img src="https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white" /> -->
+                <!-- <img src="https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white" /> -->
+                <!-- <img src="https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B" /> -->
             </td>
-        </tr> -->
+        </tr>
         <tr>
             <td align="center">Version Control / Collaboration</td>
             <td>
